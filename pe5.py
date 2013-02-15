@@ -1,6 +1,6 @@
 # average time: 49.8ns
 
-start = incr = j = 20
+start = incr = 20
 
 for j in range(20, (start/2 + 1), -1):
     for i in range(1, j+1):
