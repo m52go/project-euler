@@ -1,5 +1,4 @@
 # average time: 59s for 600851475143
-# #terrible #wasteful #inefficient #naive
 
 def get_lpf(num):
     ufl = long(num/2 + 1)    # upper factor limit

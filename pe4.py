@@ -1,3 +1,5 @@
+# average time: 42.5ns
+
 start = 999999
 oc = 10010      # outer counter
 ic = 1100       # inner counter
