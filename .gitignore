@@ -1,4 +1,4 @@
 # Ignore unnecessary files
 .DS_Store
-.swp
-.pyc
+*.swp
+*.pyc
